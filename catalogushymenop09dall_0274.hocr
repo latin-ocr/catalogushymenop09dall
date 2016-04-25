@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogushymenop09dall_0274.png"; bbox 0 0 2159 3337; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 35 1822 2071 1898">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 35 1822 2071 1898">
+     <span class='ocr_line' id='line_1_1' title="bbox 35 1822 2071 1898; baseline -0.001 -31"><span class='ocrx_word' id='word_1_1' title='bbox 35 1825 252 1882; x_wconf 56' lang='lat' dir='ltr'><em>Pae-&#39;4114</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 284 1825 575 1898; x_wconf 33' lang='lat' dir='ltr'><em>aurosum-4</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 603 1831 724 1868; x_wconf 57' lang='lat' dir='ltr'><em>cmv.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 755 1832 881 1872; x_wconf 53' lang='grc' dir='ltr'><em>θεαὶ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 902 1838 978 1865; x_wconf 71' lang='lat' dir='ltr'><em>m,-</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 994 1835 1180 1867; x_wconf 54' lang='lat' dir='ltr'><em>w-stsm</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1200 1833 1750 1887; x_wconf 39' lang='grc' dir='ltr'><em>ω.τη*δ,μμι.1ι.3&gt;τᾼω,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1769 1838 1901 1872; x_wconf 50' lang='lat' dir='ltr'><em>iare]</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1918 1841 2003 1883; x_wconf 78' lang='lat' dir='ltr'><em>l’·l⁰</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2020 1822 2071 1877; x_wconf 54' lang='lat' dir='ltr'><em>a)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2114 1892 2159 1906">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2114 1892 2159 1906">
+     <span class='ocr_line' id='line_1_2' title="bbox 2114 1892 2159 1906; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 2114 1892 2159 1906; x_wconf 48' lang='lat' dir='ltr'><em>j</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

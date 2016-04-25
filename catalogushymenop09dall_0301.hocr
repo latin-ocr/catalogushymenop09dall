@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogushymenop09dall_0301.png"; bbox 0 0 2159 3337; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 12 1638 431 1710">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 12 1638 431 1710">
+     <span class='ocr_line' id='line_1_1' title="bbox 12 1638 431 1710; baseline -0.021 -20"><span class='ocrx_word' id='word_1_1' title='bbox 12 1638 99 1690; x_wconf 57' lang='grc' dir='ltr'><strong><em>Δι’</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 148 1655 248 1684; x_wconf 59' lang='grc' dir='ltr'><strong><em>οων.</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 282 1651 431 1710; x_wconf 54' lang='grc' dir='ltr'><strong><em>μεως,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 435 1642 2154 1705">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 435 1642 2154 1705">
+     <span class='ocr_line' id='line_1_2' title="bbox 435 1642 2154 1705; baseline -0.003 -20"><span class='ocrx_word' id='word_1_4' title='bbox 435 1652 528 1704; x_wconf 52' lang='lat' dir='ltr'><strong><em>uda,</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 568 1642 760 1684; x_wconf 46' lang='lat' dir='ltr'><strong><em>Soa—41³&amp;</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 802 1647 913 1685; x_wconf 58' lang='lat' dir='ltr'><strong><em>CXC-2</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 948 1647 1134 1705; x_wconf 55' lang='lat' dir='ltr'><em>Q</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1161 1648 1811 1697; x_wconf 42' lang='lat' dir='ltr'><strong><em>seoqaeum.m.ml..‘fiuma</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1841 1650 2154 1692; x_wconf 43' lang='lat' dir='ltr'><strong><em>uffQ-73ae6ss(</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
